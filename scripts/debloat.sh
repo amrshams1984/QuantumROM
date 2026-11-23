@@ -3,7 +3,7 @@
 
 # GENERAL / SYSTEM / BLOAT
 DEBLOAT_APPS=(
-"HMT" "FactoryCameraFB" "WlanTest" "AirGlance" "AirReadingGlass" 
+"FactoryCameraFB" "WlanTest" "AirGlance" "AirReadingGlass" 
 "AndroidGlassesCore" "SOAgent77" "ARCore" "ARDrawing" "ARZone"
 "SingleTakeService" "BlockchainBasicKit" "Cameralyzer" 
 "DictDiotekForSec" "EasymodeContactsWidget81"
@@ -13,7 +13,7 @@ DEBLOAT_APPS=(
 "ParentalCare" "PhotoTable" "SmartReminder" "SmartSwitchStub"
 "UnifiedWFC" "UniversalMDMClient" "VoiceAccess" "VTCameraSetting"
 "WebManual" "WifiGuider" "AutomationTest_FB" "FactoryTestProvider"
-"CIDManager" "FacAtFunction" "serviceModeApp_FB"
+"CIDManager" "FacAtFunction"
 )
 
 
@@ -68,11 +68,11 @@ SAMSUNG_AI=(
 
 # GOOGLE APPS
 GOOGLE_APPS=(
-"SpeechServicesByGoogle" "Maps" "Duo" "Photos"
+"Photos"
 "AssistantShell" "BardShell" "DuoStub"
 "GoogleCalendarSyncAdapter" "AndroidDeveloperVerifier"
 "YourPhone_Stub" "AndroidAutoStub" "FamilyLinkParentalControls"
-"AndroidSystemIntelligence" "GoogleRestore" "SamsungMessages"
+"AndroidSystemIntelligence" "GoogleRestore"
 "SearchSelector" "PlayAutoInstallConfig" "FamilyLinkParentalControls"
 )
 
