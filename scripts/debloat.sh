@@ -34,14 +34,14 @@ CARRIER_APPS=(
 
 # SAMSUNG FEATURES / APPS
 SAMSUNG_APPS=(
-"SamsungCalendar" "SamsungTTS" "SamsungBilling"
+"SamsungBilling"
 "OneDrive_Samsung_v3" "SamsungCarKeyFw"
 "SamsungPass" "SamsungSmartSuggestions"
 "SamsungPassAutofill_v1" "WarrantyCare"
 "AirCommand" "AppUpdateCenter" "AREmoji" "SketchBook"
 "AREmojiEditor" "AutoDoodle" "AvatarEmojiSticker"
 "AvatarEmojiSticker_S" "AvatarPicker" "GalaxyBetaService"
-"GalleryWidget" "LiveStickers" "StoryService"
+"LiveStickers" "StoryService"
 "StickerFaceARAvatar" "sticker" "PaymentFramework"
 )
 
@@ -92,7 +92,7 @@ HARDWARE_DRIVERS=(
 # MISC / SERVICES
 MISC_SERVICES=(
 "AuthFramework" "Discover" "DiscoverSEP"
-"EarphoneTypeC" "EasySetup" "FotaAgent"
+"EarphoneTypeC" "EasySetup"
 "HashTagService" "LedCoverService"
 "LinkToWindowsService" "MemorySaver_O_Refresh"
 "MultiControl" "MultiControlVP6"
